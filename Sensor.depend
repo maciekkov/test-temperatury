@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1495591016 source:d:\c++\sensor\main.cpp
+	"BME280.h"
+	<iostream>
+
+1495592254 d:\c++\sensor\include\bme280.h
+	<unistd.h>
+	<stdint.h>
+	<fcntl.h>
+	<stdio.h>
+	<errno.h>
+	<stdlib.h>
+	<string>
+	<iostream>
+
